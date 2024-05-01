@@ -67,15 +67,12 @@
 # print(f'Number Of Digits Is: {digit}')
 # print(f'Number Of Letters Is: {alpha}')
 # #------------------------------------------------------------
-
-my_list = [1, 2, 3, 4, 4, 5, 6, 1, 7]
-arr = []
-
-for num in my_list:
-    if num not in arr:
-        arr.append(num)
-
-print(arr)
+# my_list = [1, 2, 3, 4, 4, 5, 6, 1, 7]
+# arr = []
+# for num in my_list:
+#     if num not in arr:
+#         arr.append(num)
+# print(arr)
 
 
 
